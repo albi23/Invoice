@@ -27,7 +27,7 @@ class WystawFaktureWindow extends JFrame {
         int x_leabelSprzedajacy = 30;
         int x_jleabelKupujacy = 500;
 
-        setTitle("Faktura by aolo23");
+        setTitle("Faktura");
         setBounds(300, 50, WidhtWindow, HigthtWindow);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
